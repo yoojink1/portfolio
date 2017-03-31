@@ -1,0 +1,11 @@
+.aboutsidebar{
+   position: absolute;
+    right: 0px;
+    width: 300px;
+    text-align: right;
+    padding-top: 230px;
+    padding-right: 7px;
+}
+.red{
+    width:100%;
+}
