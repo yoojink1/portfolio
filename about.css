@@ -1,11 +1,40 @@
+h1{
+    font-family: Microsoft Yi Balti;
+    padding-left: 1100px;
+}
+
+ul{
+    list-style-type: none;
+    padding-left: 10px;
+}
+
+li a {
+        color: black;
+    text-decoration: none;
+}
+
+th{
+    font-weight: normal;
+    text-align: left;
+}
+
+.sidebar {
+    display:inline-block;
+    border:1px solid #000;
+    padding-right: 10px;
+    height: 172px;
+    margin-top: 180px
+}
+
 .aboutsidebar{
    position: absolute;
     right: 0px;
     width: 300px;
     text-align: right;
-    padding-top: 230px;
+    padding-: 230px;
     padding-right: 7px;
 }
-.red{
+.red {
     width:100%;
+    margin-top: 100px;
 }

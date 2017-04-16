@@ -1,0 +1,26 @@
+h1{
+    font-family: Microsoft Yi Balti;
+    padding-left: 1100px;
+}
+
+ul{
+    list-style-type: none;
+    padding-left: 10px;
+}
+
+li a {
+        color: black;
+    text-decoration: none;
+}
+
+.sidebar {
+    display:inline-block;
+    border:1px solid #000;
+    padding-right: 10px;
+    height: 172px;
+    margin-top: 180px
+}
+.helloyoojin {
+    text-align: right;
+    
+}

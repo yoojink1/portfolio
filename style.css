@@ -5,6 +5,7 @@ h1{
 
 ul{
     list-style-type: none;
+    padding-left: 10px;
 }
 
 li a {
@@ -13,5 +14,9 @@ li a {
 }
 
 .sidebar {
-    padding-top: 30vh;
+    display:inline-block;
+    border:1px solid #000;
+    padding-right: 10px;
+    height: 172px;
+    margin-top: 180px
 }
